@@ -1,0 +1,13 @@
+included:
+  - Screeny
+  - ScreenyTests
+disabled_rules:
+  - todo
+opt_in_rules:
+  - force_unwrapping
+force_unwrapping:
+  severity: error
+identifier_name:
+  excluded: [x, y, w, h, id, at, to, dx, dy]
+line_length:
+  warning: 140

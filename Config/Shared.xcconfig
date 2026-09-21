@@ -1,0 +1,2 @@
+// Signing identities and team IDs live in the uncommitted Local.xcconfig.
+#include? "Local.xcconfig"
