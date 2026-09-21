@@ -4,6 +4,8 @@ A fast, free and open-source screenshot tool for macOS, modeled on [Lightshot](h
 
 Press a hotkey, drag over part of the screen, scribble an arrow or a note on it, and copy it to the clipboard, all in a couple of seconds. No accounts, no cloud, no telemetry.
 
+![Screeny: a selected region with its size readout and the annotation toolbar](docs/screenshot.png)
+
 ## What it's for
 
 Screeny is for quick annotated screenshots you paste somewhere right away: a bug report, a chat message, a doc, a code review. The built-in macOS tools can capture a region, but marking it up means opening another window first. In Screeny you draw right on the frozen screen, then copy or save.
